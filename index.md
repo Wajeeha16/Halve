@@ -3,7 +3,11 @@ layout: home
 ---
 # About Me
 
-<img  src="images/rsz_1we.jpg" />
+<img  src="images/rsz_1we.png" />
+
+
+
+
 
 
 
