@@ -3,7 +3,18 @@ layout: home
 ---
 # About Me
 
-<img  src="img/rsz_1we.jpg" />
+<img  src="images/rsz_1we.jpg" />
+
+
+
+
+
+
+
+
+
+
+
 
 A multipotentialist and an aspiring software engineer
 
