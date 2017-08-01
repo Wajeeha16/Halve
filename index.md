@@ -1,3 +1,7 @@
+
+<img  src="images/we.PNG" />
+
+
 ---
 layout: home
 ---
@@ -9,4 +13,4 @@ Find my Resume <a href="http://bit.ly/2uWmLtD">here</a>
 
 note: this site is still under construction
 
-<img  src="images/we.PNG" />
+
