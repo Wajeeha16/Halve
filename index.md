@@ -1,7 +1,32 @@
 ---
 layout: home
 ---
-
+   
+ <img  src="images/we.PNG" />
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 # About Me
 
 A multipotentialist and an aspiring software engineer
