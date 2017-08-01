@@ -10,4 +10,4 @@ Find my Resume <a href="http://bit.ly/2uWmLtD">here</a>
 note: this site is still under construction
 
 
-<img  src="images/me.png" />
+<img  src="images/me.PNG" />
