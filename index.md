@@ -7,4 +7,5 @@ layout: home
 
 A multipotentialist and an aspiring software engineer
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+An Aspiring programmer and an Enterprising Individual. Tech enthusiast+blogger Student of Software Engineering, National University of Sciences and Technology
+[issue on GitHub](https://github.com/Wajeeha16).
