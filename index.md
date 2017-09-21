@@ -1,7 +1,18 @@
 ---
 layout: home
 ---
-<img src="we.PNG">  
+
+
+<img  src="images/me.PNG" />
+
+
+
+
+
+
+
+
+
   
   
   
