@@ -3,7 +3,7 @@ layout: home
 ---
 
 
-<img  src="images/me.PNG" />
+<img  src="images/we.PNG" />
 
 
 
