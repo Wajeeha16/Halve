@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-  
+<img src="we.PNG">  
   
   
   
