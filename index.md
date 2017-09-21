@@ -3,9 +3,9 @@ layout: home
 ---
 
 <img  src="images/we.PNG" />
-  
-  
 # About Me
+
+
 
 
 An Aspiring programmer and an Enterprising Individual. Tech enthusiast+blogger Student of Software Engineering, National University of Sciences and Technology
